@@ -222,7 +222,7 @@ footer {
 .teachers-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 150px;
+  gap: 200px;
   max-width: 900px;
   margin: 0 auto;
   text-align: center;
